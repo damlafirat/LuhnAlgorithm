@@ -1,0 +1,15 @@
+C:\Users\damla\Desktop\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.exe.config
+C:\Users\damla\Desktop\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.exe
+C:\Users\damla\Desktop\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.pdb
+C:\Users\damla\Desktop\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.exe
+C:\Users\damla\Desktop\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.pdb
+C:\Users\damla\Desktop\Projects\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.exe.config
+C:\Users\damla\Desktop\Projects\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.exe
+C:\Users\damla\Desktop\Projects\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.pdb
+C:\Users\damla\Desktop\Projects_C#\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.exe.config
+C:\Users\damla\Desktop\Projects_C#\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.exe
+C:\Users\damla\Desktop\Projects_C#\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.pdb
+C:\Users\damla\Desktop\Projects_C#\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\Projects_C#\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.exe
+C:\Users\damla\Desktop\Projects_C#\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.pdb
